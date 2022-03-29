@@ -1,4 +1,11 @@
 table{
   text-align:center;
   border-color:lightgreen;
+  background-color:brown;
+ }
+td::hover,td::hover{
+  background-color:lightgreen;
+}
+table::nthchild(even){
+  background-color:orange;
  }
