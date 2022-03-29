@@ -4,6 +4,7 @@ table{
   color:black;
   border-color:yellow;
   background-color:white;
+  font-size:30px;
  }
 td:hover,th:hover{
   background-color:lightgreen;
@@ -13,5 +14,6 @@ tr:nth-child(odd){
   color:white;
  }
 th{
-  font-size:80%;
+  font-size:50px;
+  font-style:bold;
  }
