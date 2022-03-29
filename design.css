@@ -7,6 +7,6 @@ table{
 td:hover,th:hover{
   background-color:lightgreen;
 }
-table:nth-child(even){
+tr:nth-child(even){
   background-color:orange;
  }
