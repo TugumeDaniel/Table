@@ -1,7 +1,8 @@
 table{
   text-align:center;
+  font-color:white;
   border-color:lightgreen;
-  background-color:brown;
+  background-color:black;
  }
 td::hover,td::hover{
   background-color:lightgreen;
