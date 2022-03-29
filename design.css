@@ -1,8 +1,8 @@
 table{
   text-align:center;
-  color:white;
+  color:black;
   border-color:yellow;
-  background-color:black;
+  background-color:white;
  }
 td:hover,th:hover{
   background-color:lightgreen;
